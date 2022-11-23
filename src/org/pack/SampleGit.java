@@ -2,7 +2,11 @@ package org.pack;
 
 public class SampleGit {
 	int a = 100;
-	int b = 100;
+
+	private void add(int a, int b) {
+		int c = a + b;
+		System.out.println(c);
+	}
 
 	private void b() {
 		System.out.println("b method");
