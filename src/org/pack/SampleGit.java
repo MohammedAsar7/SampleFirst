@@ -8,6 +8,10 @@ public class SampleGit {
 		System.out.println("b method");
 	}
 
+	private void ch() {
+		System.out.println("git");
+	}
+
 	public static void main(String[] args) {
 		System.out.println("git hub");
 	}
