@@ -2,15 +2,15 @@ package org.pack;
 
 public class SampleGit {
 	int a = 100;
-	int b = 100;
+	int b = 30;
 
 	private void b() {
 		System.out.println("b method");
-		System.out.println("princ c method");
+		System.out.println("final re arrange");
 	}
 
-	private void ch() {
-		System.out.println("git");
+	private void display() {
+		System.out.println("b method");
 	}
 
 	public static void main(String[] args) {
