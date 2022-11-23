@@ -4,8 +4,8 @@ public class SampleGit {
 	int a = 100;
 	int b = 100;
 
-	private void b() {
-		System.out.println("b method");
+	private void display() {
+		System.out.println("b method" );
 	}
 
 	private void ch() {
