@@ -6,6 +6,7 @@ public class SampleGit {
 
 	private void b() {
 		System.out.println("b method");
+		System.out.println("princ c method");
 	}
 
 	private void ch() {
@@ -14,6 +15,7 @@ public class SampleGit {
 
 	public static void main(String[] args) {
 		System.out.println("git hub");
+		System.out.println("done");
 	}
 
 }
